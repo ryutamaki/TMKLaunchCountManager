@@ -8,12 +8,23 @@
 
 #import "TMAppDelegate.h"
 
+#import "TMLaunchCountManager.h"
+
+#import "TMExampleViewViewController.h"
+
 @implementation TMAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    /* call this wherever you want */
+    [TMLaunchCountManager launch];
+    
+    
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
+    TMExampleViewViewController *exampleViewController = [[TMExampleViewViewController alloc] initWithNibName:nil bundle:nil];
+    self.window.rootViewController = exampleViewController;
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;

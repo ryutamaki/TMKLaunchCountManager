@@ -267,12 +267,12 @@ t1392109845
 s110348
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o
-t1392109845
-s71640
+t1392115374
+s72940
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o
-t1392109845
-s41856
+t1392115374
+s61232
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.LinkFileList
 c0000000052F9E91500000000000002CC
@@ -280,15 +280,15 @@ t1392109845
 s716
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o
-t1392109845
-s4224
+t1392115374
+s23608
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/main.o
 t1392109845
 s4320
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent
-t1392109850
+t1392115404
 s434
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/assetcatalog_dependencies.txt
@@ -300,19 +300,19 @@ t1392109847
 s525
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app
-t1392109850
+t1392115404
 s374
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM
-t1392109850
+t1392115374
 s102
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist
-t1392109850
-s1522
+t1392115404
+s1524
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/PkgInfo
-t1392109850
+t1392115404
 s8
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/ResourceRules.plist
@@ -320,8 +320,8 @@ t1392109845
 s150
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager
-t1392109850
-s66176
+t1392115374
+s73536
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager-Info.plist
 t1392109850
@@ -332,14 +332,14 @@ t1392109847
 s8145
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.h
-c0000000052F9E8B80000000000000101
-t1392109752
+c0000000052F9F52D0000000000000101
+t1392112941
 s257
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m
-c0000000052F9E8B80000000000000300
-t1392109752
-s768
+c0000000052F9FCE80000000000000CB2
+t1392114920
+s3250
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Images.xcassets
 c0000000052F9E7BE0000000000000088
@@ -347,9 +347,9 @@ t1392109502
 s136
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting Files/TMLaunchCountManager-Info.plist
-c0000000052F9E91800000000000005B0
-t1392109848
-s1456
+c0000000052F9FECB00000000000005B2
+t1392115403
+s1458
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting Files/TMLaunchCountManager-Prefix.pch
 c0000000052F9E7BE0000000000000158
@@ -367,19 +367,19 @@ t1392109502
 s297
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m
-c0000000052F9E7BE0000000000000896
-t1392109502
-s2198
+c0000000052F9F52D00000000000009F4
+t1392112941
+s2548
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.h
-c0000000052F9E85D00000000000000F5
-t1392109661
-s245
+c0000000052F9FEAE00000000000002B7
+t1392115374
+s695
 
 N/Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m
-c0000000052F9E85D00000000000000EE
-t1392109661
-s238
+c0000000052F9FE6F0000000000000889
+t1392115311
+s2185
 
 CBuild AST from /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m
 r0
@@ -398,17 +398,17 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies36e6a1b620aab841^9db9abb620aab841^---0#1#1#--18"Check dependencies36"70E26ED9-64CE-4C7F-A932-8A588BD9CEFE-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd768b54c36aab841^22dfbd4c36aab841^---0#1#1#--18"Check dependencies36"23587068-D4F5-428C-89F0-DF29039DA04E-
 
 CCodeSign /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app
-s413802678.675304
-e413802678.785514
+s413808204.769840
+e413808204.888553
 r1
 xCodeSign
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app
 o/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app: replacing existing signature
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CodeSign Build/Products/Debug-iphoneos/TMLaunchCountManager.app63"CodeSign Build/Products/Debug-iphoneos/TMLaunchCountManager.app02f3acb620aab841^2b18c9b620aab841^-135"/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@112"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/0000000000000000^1115"CodeSign Build/Products/Debug-iphoneos/TMLaunchCountManager.app    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Ryu Tamaki (PNYZW2H6A6)" and provisioning profile "iOS Team Provisioning Profile: *" (736B7B00-0DF5-4199-B761-C67968217ED2)    codesign --force --sign DB1A4D42104B35B2B42E789711C4538547ABAF35 --resource-rules=/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/ResourceRules.plist --entitlements /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app36"AADA4D47-3161-4AC0-A6E8-4481D780A0B2-
-bB2F44EBD-60C8-442D-A7A6-671F826A1C5E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CodeSign Build/Products/Debug-iphoneos/TMLaunchCountManager.app63"CodeSign Build/Products/Debug-iphoneos/TMLaunchCountManager.app992dc54c36aab841^9a78e34c36aab841^-135"/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@112"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/0000000000000000^1115"CodeSign Build/Products/Debug-iphoneos/TMLaunchCountManager.app    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Ryu Tamaki (PNYZW2H6A6)" and provisioning profile "iOS Team Provisioning Profile: *" (736B7B00-0DF5-4199-B761-C67968217ED2)    codesign --force --sign DB1A4D42104B35B2B42E789711C4538547ABAF35 --resource-rules=/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/ResourceRules.plist --entitlements /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app36"7FAF0C19-C420-4515-B917-05704D549350-
+b9227FFB8-38B6-4DF1-A558-896AFE613E6C
 
 CCompileAssetCatalog /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Images.xcassets
 s413802646.173038
@@ -426,8 +426,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile
 b83D67509-C624-4554-AF06-95CBF1D4D31D
 
 CCompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s413802645.806882
-e413802645.993276
+s413808174.143011
+e413808174.259581
 r1
 xCompileC
 xBuild/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o
@@ -438,12 +438,14 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m
 d/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m227"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o Example/TMAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2eadce9520aab841^7348fe9520aab841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m0000000000000000^3973"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o Example/TMAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryufloat/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-generated-files.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-own-target-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-all-target-headers.hmap -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-project-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources/arm64 -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -include /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/PrecompiledHeaders/TMLaunchCountManager-Prefix-eveotoldsfhrzmhbxukofdqfxikz/TMLaunchCountManager-Prefix.pch -MMD -MT dependencies -MF /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.d --serialize-diagnostics /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.dia -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o36"2D4EF12C-7195-4FCE-A884-CD5EE9EE8C96-
-b83D67509-C624-4554-AF06-95CBF1D4D31D
+d/Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.h
+d/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m227"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o Example/TMAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7b6242e36aab841^9f74422e36aab841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m0000000000000000^3973"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o Example/TMAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryufloat/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-generated-files.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-own-target-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-all-target-headers.hmap -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-project-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources/arm64 -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -include /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/PrecompiledHeaders/TMLaunchCountManager-Prefix-eveotoldsfhrzmhbxukofdqfxikz/TMLaunchCountManager-Prefix.pch -MMD -MT dependencies -MF /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.d --serialize-diagnostics /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.dia -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMAppDelegate.m -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMAppDelegate.o36"BD4AC8F2-B1A5-49AC-B44A-DA2BCB5D9D57-
+b6B786F0F-BA95-46CA-B8FF-EE9D3F2CECB9
 
 CCompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s413802645.807750
-e413802645.980950
+s413808174.144397
+e413808174.264667
 r1
 xCompileC
 xBuild/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o
@@ -454,12 +456,13 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m
 d/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m267"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o Example/Controllers/TMExampleViewViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera8e2ce9520aab841^5320fb9520aab841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m0000000000000000^4081"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o Example/Controllers/TMExampleViewViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryufloat/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-generated-files.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-own-target-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-all-target-headers.hmap -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-project-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources/arm64 -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -include /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/PrecompiledHeaders/TMLaunchCountManager-Prefix-eveotoldsfhrzmhbxukofdqfxikz/TMLaunchCountManager-Prefix.pch -MMD -MT dependencies -MF /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.d --serialize-diagnostics /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.dia -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o36"2C47CE42-A334-476C-8470-B610917B6B6F-
-b83D67509-C624-4554-AF06-95CBF1D4D31D
+d/Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m267"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o Example/Controllers/TMExampleViewViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerec12252e36aab841^48c1432e36aab841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m0000000000000000^4081"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o Example/Controllers/TMExampleViewViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryufloat/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-generated-files.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-own-target-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-all-target-headers.hmap -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-project-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources/arm64 -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -include /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/PrecompiledHeaders/TMLaunchCountManager-Prefix-eveotoldsfhrzmhbxukofdqfxikz/TMLaunchCountManager-Prefix.pch -MMD -MT dependencies -MF /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.d --serialize-diagnostics /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.dia -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Controllers/TMExampleViewViewController.m -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMExampleViewViewController.o36"77E97712-3BA2-4230-B3CB-37CE4039ED44-
+b6B786F0F-BA95-46CA-B8FF-EE9D3F2CECB9
 
 CCompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o /Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s413802645.806603
-e413802645.935543
+s413808174.142838
+e413808174.226388
 r1
 xCompileC
 xBuild/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o
@@ -470,8 +473,8 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m
 d/Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m254"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o TMLaunchCountManager/TMLaunchCountManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1091ce9520aab841^e17fef9520aab841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m0000000000000000^4041"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o TMLaunchCountManager/TMLaunchCountManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryufloat/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-generated-files.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-own-target-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-all-target-headers.hmap -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-project-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources/arm64 -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -include /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/PrecompiledHeaders/TMLaunchCountManager-Prefix-eveotoldsfhrzmhbxukofdqfxikz/TMLaunchCountManager-Prefix.pch -MMD -MT dependencies -MF /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.d --serialize-diagnostics /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.dia -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o36"7CBC7C5B-4150-4BB3-81D4-7BCE11DB5C54-
-b83D67509-C624-4554-AF06-95CBF1D4D31D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m254"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o TMLaunchCountManager/TMLaunchCountManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc636252e36aab841^c3f4392e36aab841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m0000000000000000^4041"CompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o TMLaunchCountManager/TMLaunchCountManager.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryufloat/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-generated-files.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-own-target-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-all-target-headers.hmap -iquote /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager-project-headers.hmap -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources/arm64 -I/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/DerivedSources -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -include /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/PrecompiledHeaders/TMLaunchCountManager-Prefix-eveotoldsfhrzmhbxukofdqfxikz/TMLaunchCountManager-Prefix.pch -MMD -MT dependencies -MF /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.d --serialize-diagnostics /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.dia -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/TMLaunchCountManager/TMLaunchCountManager.m -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.o36"F4989AD3-9958-4B68-821B-BC23B60F6FEB-
+b6B786F0F-BA95-46CA-B8FF-EE9D3F2CECB9
 
 CCompileC Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/main.o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting\ Files/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s413802645.807189
@@ -522,18 +525,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Bu
 b83D67509-C624-4554-AF06-95CBF1D4D31D
 
 CGenerateDSYMFile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager
-s413802650.088407
-e413802650.103513
+s413808204.747366
+e413808204.763291
 r1
 xGenerateDSYMFile
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generate /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM152"GenerateDSYMFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager21b0169a20aab841^99811a9a20aab841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM/0000000000000000^737"GenerateDSYMFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM36"7EF1A4A6-03A8-48BC-B491-40B3F3A38828-
-b7D25DC85-E14C-41B9-BE19-6D4DC44C2959
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generate /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM152"GenerateDSYMFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManagerbf64bf4c36aab841^3081c34c36aab841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM/0000000000000000^737"GenerateDSYMFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app.dSYM36"EFAC7F4D-B28E-4028-B33C-9D162CA6E299-
+b9227FFB8-38B6-4DF1-A558-896AFE613E6C
 
 CLd /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager normal arm64
-s413802645.994828
-e413802646.172104
+s413808174.266282
+e413808174.398404
 r1
 xLd
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager
@@ -586,18 +589,18 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager91"Ld Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager normal arm64f8c4fe9520aab841^880f2c9620aab841^---0#0#1#--1466"Ld Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager normal arm64    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -filelist /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager_dependency_info.dat -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager36"3A6D1638-96CF-4E7E-8EDD-8127CACBE280-
-b83D67509-C624-4554-AF06-95CBF1D4D31D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager91"Ld Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager normal arm64e63f442e36aab841^97fe652e36aab841^---0#0#1#--1466"Ld Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager normal arm64    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -F/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos -filelist /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/Objects-normal/arm64/TMLaunchCountManager_dependency_info.dat -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/TMLaunchCountManager36"1FEFB751-1712-4A39-B3D6-1E82C8BBBC66-
+b6B786F0F-BA95-46CA-B8FF-EE9D3F2CECB9
 
 CProcessInfoPlistFile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting\ Files/TMLaunchCountManager-Info.plist
-s413802650.086081
-e413802650.087952
+s413808204.744962
+e413808204.746817
 r1
 xProcessInfoPlistFile
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting Files/TMLaunchCountManager-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Process /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting Files/TMLaunchCountManager-Info.plist144"ProcessInfoPlistFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist Example/Supporting\ Files/TMLaunchCountManager-Info.plistf81a169a20aab841^3884169a20aab841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting%20Files/TMLaunchCountManager-Info.plist0000000000000000^1166"ProcessInfoPlistFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist Example/Supporting\ Files/TMLaunchCountManager-Info.plist    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting\ Files/TMLaunchCountManager-Info.plist -genpkginfo /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/ResourceRules.plist -additionalcontentfile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/assetcatalog_generated_info.plist -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist36"FEED8C3F-15DB-4263-871F-7ACE36305574-
-b7D25DC85-E14C-41B9-BE19-6D4DC44C2959
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Process /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting Files/TMLaunchCountManager-Info.plist144"ProcessInfoPlistFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist Example/Supporting\ Files/TMLaunchCountManager-Info.plist7ac2be4c36aab841^fb3fbf4c36aab841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting%20Files/TMLaunchCountManager-Info.plist0000000000000000^1166"ProcessInfoPlistFile Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist Example/Supporting\ Files/TMLaunchCountManager-Info.plist    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/Supporting\ Files/TMLaunchCountManager-Info.plist -genpkginfo /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/ResourceRules.plist -additionalcontentfile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/assetcatalog_generated_info.plist -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist36"0C62B9A3-58C0-487C-AA8C-9EEB7250D158-
+b9227FFB8-38B6-4DF1-A558-896AFE613E6C
 
 CProcessInfoPlistFile /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/Info.plist /Users/ryufloat/dev/Personal/TMLaunchCountManager/Example/TMLaunchCountManager-Info.plist
 r0
@@ -642,14 +645,14 @@ CProcessPCH /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediate
 r0
 
 CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent
-s413802650.104483
-e413802650.105670
+s413808204.768462
+e413808204.769486
 r1
 xProcessProductPackaging
 x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
 x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection260"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent260"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent78d21a9a20aab841^d80d1b9a20aab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent0000000000000000^858"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent36"AD4A458A-47CE-4CDB-B31D-E2010F5F5334-
-b7D25DC85-E14C-41B9-BE19-6D4DC44C2959
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection260"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent260"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent1ec6c44c36aab841^f4fdc44c36aab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent0000000000000000^858"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Intermediates/TMLaunchCountManager.build/Debug-iphoneos/TMLaunchCountManager.build/TMLaunchCountManager.xcent36"41A2774E-43AB-403E-A2BE-CC39CCAB851C-
+b9227FFB8-38B6-4DF1-A558-896AFE613E6C
 
 CProcessProductPackaging /Users/ryufloat/Library/MobileDevice/Provisioning\ Profiles/5BAAB6AD-E1B2-4113-80DC-9DBD72FF5E99.mobileprovision /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app/embedded.mobileprovision
 r0
@@ -665,5 +668,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection216"Proces
 b83D67509-C624-4554-AF06-95CBF1D4D31D
 
 CTouch /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app
-r0
+s413808204.763915
+e413808204.767967
+r1
+xTouch
+x/Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app60"Touch Build/Products/Debug-iphoneos/TMLaunchCountManager.app679bc34c36aab841^789ac44c36aab841^---0#0#1#--433"Touch Build/Products/Debug-iphoneos/TMLaunchCountManager.app    cd /Users/ryufloat/dev/Personal/TMLaunchCountManager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryufloat/dev/Personal/TMLaunchCountManager/Build/Products/Debug-iphoneos/TMLaunchCountManager.app36"00964308-CAE6-4C27-83FF-0FCD52D92DE0-
+b9227FFB8-38B6-4DF1-A558-896AFE613E6C
 
