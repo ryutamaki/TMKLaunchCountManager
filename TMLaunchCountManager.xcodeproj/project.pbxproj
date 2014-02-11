@@ -1,0 +1,487 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F458D1E118AA1FCC0096A7EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F458D1D918AA1FCC0096A7EC /* Images.xcassets */; };
+		F458D1E318AA1FCC0096A7EC /* TMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1DC18AA1FCC0096A7EC /* TMAppDelegate.m */; };
+		F458D1E718AA1FDE0096A7EC /* TMLaunchCountManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1E618AA1FDE0096A7EC /* TMLaunchCountManager.m */; };
+		F458D1EB18AA20390096A7EC /* TMExampleViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1EA18AA20390096A7EC /* TMExampleViewViewController.m */; };
+		F458D1F318AA207A0096A7EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1EF18AA207A0096A7EC /* main.m */; };
+		F458D1F518AA20B10096A7EC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F461CEBC18AA1F3E00349E07 /* InfoPlist.strings */; };
+		F461CE9B18AA1F3E00349E07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9A18AA1F3E00349E07 /* Foundation.framework */; };
+		F461CE9D18AA1F3E00349E07 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9C18AA1F3E00349E07 /* CoreGraphics.framework */; };
+		F461CE9F18AA1F3E00349E07 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9E18AA1F3E00349E07 /* UIKit.framework */; };
+		F461CEB418AA1F3E00349E07 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CEB318AA1F3E00349E07 /* XCTest.framework */; };
+		F461CEB518AA1F3E00349E07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9A18AA1F3E00349E07 /* Foundation.framework */; };
+		F461CEB618AA1F3E00349E07 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9E18AA1F3E00349E07 /* UIKit.framework */; };
+		F461CEC018AA1F3E00349E07 /* TMLaunchCountManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F461CEBF18AA1F3E00349E07 /* TMLaunchCountManagerTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F461CEB718AA1F3E00349E07 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F461CE8F18AA1F3E00349E07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F461CE9618AA1F3E00349E07;
+			remoteInfo = TMLaunchCountManager;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F458D1D918AA1FCC0096A7EC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F458D1DB18AA1FCC0096A7EC /* TMAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMAppDelegate.h; sourceTree = "<group>"; };
+		F458D1DC18AA1FCC0096A7EC /* TMAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMAppDelegate.m; sourceTree = "<group>"; };
+		F458D1E518AA1FDE0096A7EC /* TMLaunchCountManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMLaunchCountManager.h; sourceTree = "<group>"; };
+		F458D1E618AA1FDE0096A7EC /* TMLaunchCountManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMLaunchCountManager.m; sourceTree = "<group>"; };
+		F458D1E918AA20390096A7EC /* TMExampleViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMExampleViewViewController.h; sourceTree = "<group>"; };
+		F458D1EA18AA20390096A7EC /* TMExampleViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMExampleViewViewController.m; sourceTree = "<group>"; };
+		F458D1EE18AA207A0096A7EC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F458D1EF18AA207A0096A7EC /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F458D1F018AA207A0096A7EC /* TMLaunchCountManager-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TMLaunchCountManager-Info.plist"; sourceTree = "<group>"; };
+		F458D1F118AA207A0096A7EC /* TMLaunchCountManager-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TMLaunchCountManager-Prefix.pch"; sourceTree = "<group>"; };
+		F461CE9718AA1F3E00349E07 /* TMLaunchCountManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TMLaunchCountManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F461CE9A18AA1F3E00349E07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F461CE9C18AA1F3E00349E07 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F461CE9E18AA1F3E00349E07 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F461CEB218AA1F3E00349E07 /* TMLaunchCountManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TMLaunchCountManagerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F461CEB318AA1F3E00349E07 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		F461CEBB18AA1F3E00349E07 /* TMLaunchCountManagerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TMLaunchCountManagerTests-Info.plist"; sourceTree = "<group>"; };
+		F461CEBD18AA1F3E00349E07 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F461CEBF18AA1F3E00349E07 /* TMLaunchCountManagerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TMLaunchCountManagerTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F461CE9418AA1F3E00349E07 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F461CE9D18AA1F3E00349E07 /* CoreGraphics.framework in Frameworks */,
+				F461CE9F18AA1F3E00349E07 /* UIKit.framework in Frameworks */,
+				F461CE9B18AA1F3E00349E07 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F461CEAF18AA1F3E00349E07 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F461CEB418AA1F3E00349E07 /* XCTest.framework in Frameworks */,
+				F461CEB618AA1F3E00349E07 /* UIKit.framework in Frameworks */,
+				F461CEB518AA1F3E00349E07 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F458D1D618AA1FCC0096A7EC /* Example */ = {
+			isa = PBXGroup;
+			children = (
+				F458D1DB18AA1FCC0096A7EC /* TMAppDelegate.h */,
+				F458D1DC18AA1FCC0096A7EC /* TMAppDelegate.m */,
+				F458D1E818AA200B0096A7EC /* Controllers */,
+				F458D1EC18AA207A0096A7EC /* Supporting Files */,
+				F458D1D918AA1FCC0096A7EC /* Images.xcassets */,
+			);
+			path = Example;
+			sourceTree = "<group>";
+		};
+		F458D1DF18AA1FCC0096A7EC /* TMLaunchCountManager */ = {
+			isa = PBXGroup;
+			children = (
+				F458D1E518AA1FDE0096A7EC /* TMLaunchCountManager.h */,
+				F458D1E618AA1FDE0096A7EC /* TMLaunchCountManager.m */,
+			);
+			path = TMLaunchCountManager;
+			sourceTree = "<group>";
+		};
+		F458D1E818AA200B0096A7EC /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				F458D1E918AA20390096A7EC /* TMExampleViewViewController.h */,
+				F458D1EA18AA20390096A7EC /* TMExampleViewViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		F458D1EC18AA207A0096A7EC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F458D1ED18AA207A0096A7EC /* InfoPlist.strings */,
+				F458D1EF18AA207A0096A7EC /* main.m */,
+				F458D1F018AA207A0096A7EC /* TMLaunchCountManager-Info.plist */,
+				F458D1F118AA207A0096A7EC /* TMLaunchCountManager-Prefix.pch */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F461CE8E18AA1F3E00349E07 = {
+			isa = PBXGroup;
+			children = (
+				F458D1D618AA1FCC0096A7EC /* Example */,
+				F458D1DF18AA1FCC0096A7EC /* TMLaunchCountManager */,
+				F461CEB918AA1F3E00349E07 /* TMLaunchCountManagerTests */,
+				F461CE9918AA1F3E00349E07 /* Frameworks */,
+				F461CE9818AA1F3E00349E07 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F461CE9818AA1F3E00349E07 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F461CE9718AA1F3E00349E07 /* TMLaunchCountManager.app */,
+				F461CEB218AA1F3E00349E07 /* TMLaunchCountManagerTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F461CE9918AA1F3E00349E07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F461CE9A18AA1F3E00349E07 /* Foundation.framework */,
+				F461CE9C18AA1F3E00349E07 /* CoreGraphics.framework */,
+				F461CE9E18AA1F3E00349E07 /* UIKit.framework */,
+				F461CEB318AA1F3E00349E07 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F461CEB918AA1F3E00349E07 /* TMLaunchCountManagerTests */ = {
+			isa = PBXGroup;
+			children = (
+				F461CEBF18AA1F3E00349E07 /* TMLaunchCountManagerTests.m */,
+				F461CEBA18AA1F3E00349E07 /* Supporting Files */,
+			);
+			path = TMLaunchCountManagerTests;
+			sourceTree = "<group>";
+		};
+		F461CEBA18AA1F3E00349E07 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F461CEBB18AA1F3E00349E07 /* TMLaunchCountManagerTests-Info.plist */,
+				F461CEBC18AA1F3E00349E07 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F461CE9618AA1F3E00349E07 /* TMLaunchCountManager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F461CEC318AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManager" */;
+			buildPhases = (
+				F461CE9318AA1F3E00349E07 /* Sources */,
+				F461CE9418AA1F3E00349E07 /* Frameworks */,
+				F461CE9518AA1F3E00349E07 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TMLaunchCountManager;
+			productName = TMLaunchCountManager;
+			productReference = F461CE9718AA1F3E00349E07 /* TMLaunchCountManager.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F461CEB118AA1F3E00349E07 /* TMLaunchCountManagerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F461CEC618AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManagerTests" */;
+			buildPhases = (
+				F461CEAE18AA1F3E00349E07 /* Sources */,
+				F461CEAF18AA1F3E00349E07 /* Frameworks */,
+				F461CEB018AA1F3E00349E07 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F461CEB818AA1F3E00349E07 /* PBXTargetDependency */,
+			);
+			name = TMLaunchCountManagerTests;
+			productName = TMLaunchCountManagerTests;
+			productReference = F461CEB218AA1F3E00349E07 /* TMLaunchCountManagerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F461CE8F18AA1F3E00349E07 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = TM;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Ryu Tamaki";
+				TargetAttributes = {
+					F461CEB118AA1F3E00349E07 = {
+						TestTargetID = F461CE9618AA1F3E00349E07;
+					};
+				};
+			};
+			buildConfigurationList = F461CE9218AA1F3E00349E07 /* Build configuration list for PBXProject "TMLaunchCountManager" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F461CE8E18AA1F3E00349E07;
+			productRefGroup = F461CE9818AA1F3E00349E07 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F461CE9618AA1F3E00349E07 /* TMLaunchCountManager */,
+				F461CEB118AA1F3E00349E07 /* TMLaunchCountManagerTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F461CE9518AA1F3E00349E07 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F458D1E118AA1FCC0096A7EC /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F461CEB018AA1F3E00349E07 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F458D1F518AA20B10096A7EC /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F461CE9318AA1F3E00349E07 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F458D1E718AA1FDE0096A7EC /* TMLaunchCountManager.m in Sources */,
+				F458D1E318AA1FCC0096A7EC /* TMAppDelegate.m in Sources */,
+				F458D1F318AA207A0096A7EC /* main.m in Sources */,
+				F458D1EB18AA20390096A7EC /* TMExampleViewViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F461CEAE18AA1F3E00349E07 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F461CEC018AA1F3E00349E07 /* TMLaunchCountManagerTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F461CEB818AA1F3E00349E07 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F461CE9618AA1F3E00349E07 /* TMLaunchCountManager */;
+			targetProxy = F461CEB718AA1F3E00349E07 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F458D1ED18AA207A0096A7EC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F458D1EE18AA207A0096A7EC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F461CEBC18AA1F3E00349E07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F461CEBD18AA1F3E00349E07 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F461CEC118AA1F3E00349E07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F461CEC218AA1F3E00349E07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F461CEC418AA1F3E00349E07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Example/Supporting Files/TMLaunchCountManager-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Example/Supporting Files/TMLaunchCountManager-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F461CEC518AA1F3E00349E07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Example/Supporting Files/TMLaunchCountManager-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Example/Supporting Files/TMLaunchCountManager-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		F461CEC718AA1F3E00349E07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TMLaunchCountManager.app/TMLaunchCountManager";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TMLaunchCountManager/TMLaunchCountManager-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TMLaunchCountManagerTests/TMLaunchCountManagerTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		F461CEC818AA1F3E00349E07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TMLaunchCountManager.app/TMLaunchCountManager";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TMLaunchCountManager/TMLaunchCountManager-Prefix.pch";
+				INFOPLIST_FILE = "TMLaunchCountManagerTests/TMLaunchCountManagerTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F461CE9218AA1F3E00349E07 /* Build configuration list for PBXProject "TMLaunchCountManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F461CEC118AA1F3E00349E07 /* Debug */,
+				F461CEC218AA1F3E00349E07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F461CEC318AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F461CEC418AA1F3E00349E07 /* Debug */,
+				F461CEC518AA1F3E00349E07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F461CEC618AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManagerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F461CEC718AA1F3E00349E07 /* Debug */,
+				F461CEC818AA1F3E00349E07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F461CE8F18AA1F3E00349E07 /* Project object */;
+}
