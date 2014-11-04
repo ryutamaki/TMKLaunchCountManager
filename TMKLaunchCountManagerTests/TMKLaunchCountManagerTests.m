@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface TMLaunchCountManagerTests : XCTestCase
+@interface TMKLaunchCountManagerTests : XCTestCase
 
 @end
 
-@implementation TMLaunchCountManagerTests
+@implementation TMKLaunchCountManagerTests
 
 - (void)setUp
 {

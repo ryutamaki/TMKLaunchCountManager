@@ -6,31 +6,31 @@
 //  Copyright (c) 2014年 Ryu Tamaki. All rights reserved.
 //
 
-#import "TMLaunchCountManager.h"
+#import "TMKLaunchCountManager.h"
 
 static NSString *const VERSIONS = @"versions";
 
-@interface TMLaunchCountManager ()
+@interface TMKLaunchCountManager ()
 
 @property (nonatomic) NSUserDefaults *defaults;
 
 @end
 
-@implementation TMLaunchCountManager
+@implementation TMKLaunchCountManager
 
-static TMLaunchCountManager *sharedManager;
-+ (TMLaunchCountManager *)sharedManager
+static TMKLaunchCountManager *sharedManager;
++ (TMKLaunchCountManager *)sharedManager
 {
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        sharedManager = [[TMLaunchCountManager alloc] init];
+        sharedManager = [[TMKLaunchCountManager alloc] init];
     });
     return sharedManager;
 }
 
 + (void)launch
 {
-    TMLaunchCountManager *manager = [TMLaunchCountManager sharedManager];
+    TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
     [manager launch];
 }
 

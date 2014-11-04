@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03B784261A0465A000881D77 /* TMKLaunchCountManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 03B784251A0465A000881D77 /* TMKLaunchCountManager.m */; };
+		03C7C2E11A0926F300CFCF8A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 03C7C2DD1A0926F300CFCF8A /* InfoPlist.strings */; };
+		03C7C2E21A0926F300CFCF8A /* TMKLaunchCountManager-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 03C7C2DF1A0926F300CFCF8A /* TMKLaunchCountManager-Info.plist */; };
 		F458D1E118AA1FCC0096A7EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F458D1D918AA1FCC0096A7EC /* Images.xcassets */; };
-		F458D1E318AA1FCC0096A7EC /* TMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1DC18AA1FCC0096A7EC /* TMAppDelegate.m */; };
-		F458D1E718AA1FDE0096A7EC /* TMLaunchCountManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1E618AA1FDE0096A7EC /* TMLaunchCountManager.m */; };
-		F458D1EB18AA20390096A7EC /* TMExampleViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1EA18AA20390096A7EC /* TMExampleViewViewController.m */; };
+		F458D1E318AA1FCC0096A7EC /* TMKAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1DC18AA1FCC0096A7EC /* TMKAppDelegate.m */; };
+		F458D1EB18AA20390096A7EC /* TMKExampleViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1EA18AA20390096A7EC /* TMKExampleViewViewController.m */; };
 		F458D1F318AA207A0096A7EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F458D1EF18AA207A0096A7EC /* main.m */; };
-		F458D1F518AA20B10096A7EC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F461CEBC18AA1F3E00349E07 /* InfoPlist.strings */; };
 		F461CE9B18AA1F3E00349E07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9A18AA1F3E00349E07 /* Foundation.framework */; };
 		F461CE9D18AA1F3E00349E07 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9C18AA1F3E00349E07 /* CoreGraphics.framework */; };
 		F461CE9F18AA1F3E00349E07 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9E18AA1F3E00349E07 /* UIKit.framework */; };
 		F461CEB418AA1F3E00349E07 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CEB318AA1F3E00349E07 /* XCTest.framework */; };
 		F461CEB518AA1F3E00349E07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9A18AA1F3E00349E07 /* Foundation.framework */; };
 		F461CEB618AA1F3E00349E07 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F461CE9E18AA1F3E00349E07 /* UIKit.framework */; };
-		F461CEC018AA1F3E00349E07 /* TMLaunchCountManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F461CEBF18AA1F3E00349E07 /* TMLaunchCountManagerTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,26 +33,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03B784241A0465A000881D77 /* TMKLaunchCountManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMKLaunchCountManager.h; sourceTree = "<group>"; };
+		03B784251A0465A000881D77 /* TMKLaunchCountManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMKLaunchCountManager.m; sourceTree = "<group>"; };
+		03C7C2DE1A0926F300CFCF8A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		03C7C2DF1A0926F300CFCF8A /* TMKLaunchCountManager-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TMKLaunchCountManager-Info.plist"; sourceTree = "<group>"; };
+		03C7C2E01A0926F300CFCF8A /* TMKLaunchCountManagerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMKLaunchCountManagerTests.m; sourceTree = "<group>"; };
 		F458D1D918AA1FCC0096A7EC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		F458D1DB18AA1FCC0096A7EC /* TMAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMAppDelegate.h; sourceTree = "<group>"; };
-		F458D1DC18AA1FCC0096A7EC /* TMAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMAppDelegate.m; sourceTree = "<group>"; };
-		F458D1E518AA1FDE0096A7EC /* TMLaunchCountManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMLaunchCountManager.h; sourceTree = "<group>"; };
-		F458D1E618AA1FDE0096A7EC /* TMLaunchCountManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMLaunchCountManager.m; sourceTree = "<group>"; };
-		F458D1E918AA20390096A7EC /* TMExampleViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMExampleViewViewController.h; sourceTree = "<group>"; };
-		F458D1EA18AA20390096A7EC /* TMExampleViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMExampleViewViewController.m; sourceTree = "<group>"; };
+		F458D1DB18AA1FCC0096A7EC /* TMKAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMKAppDelegate.h; sourceTree = "<group>"; };
+		F458D1DC18AA1FCC0096A7EC /* TMKAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMKAppDelegate.m; sourceTree = "<group>"; };
+		F458D1E918AA20390096A7EC /* TMKExampleViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMKExampleViewViewController.h; sourceTree = "<group>"; };
+		F458D1EA18AA20390096A7EC /* TMKExampleViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMKExampleViewViewController.m; sourceTree = "<group>"; };
 		F458D1EE18AA207A0096A7EC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F458D1EF18AA207A0096A7EC /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F458D1F018AA207A0096A7EC /* TMLaunchCountManager-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TMLaunchCountManager-Info.plist"; sourceTree = "<group>"; };
-		F458D1F118AA207A0096A7EC /* TMLaunchCountManager-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TMLaunchCountManager-Prefix.pch"; sourceTree = "<group>"; };
-		F461CE9718AA1F3E00349E07 /* TMLaunchCountManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TMLaunchCountManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F458D1F018AA207A0096A7EC /* TMKLaunchCountManager-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TMKLaunchCountManager-Info.plist"; sourceTree = "<group>"; };
+		F458D1F118AA207A0096A7EC /* TMKLaunchCountManager-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TMKLaunchCountManager-Prefix.pch"; sourceTree = "<group>"; };
+		F461CE9718AA1F3E00349E07 /* TMKLaunchCountManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TMKLaunchCountManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F461CE9A18AA1F3E00349E07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F461CE9C18AA1F3E00349E07 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		F461CE9E18AA1F3E00349E07 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		F461CEB218AA1F3E00349E07 /* TMLaunchCountManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TMLaunchCountManagerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F461CEB218AA1F3E00349E07 /* TMKLaunchCountManager.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TMKLaunchCountManager.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F461CEB318AA1F3E00349E07 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		F461CEBB18AA1F3E00349E07 /* TMLaunchCountManagerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TMLaunchCountManagerTests-Info.plist"; sourceTree = "<group>"; };
-		F461CEBD18AA1F3E00349E07 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		F461CEBF18AA1F3E00349E07 /* TMLaunchCountManagerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TMLaunchCountManagerTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,11 +79,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		03B784231A0465A000881D77 /* TMKLaunchCountManager */ = {
+			isa = PBXGroup;
+			children = (
+				03B784241A0465A000881D77 /* TMKLaunchCountManager.h */,
+				03B784251A0465A000881D77 /* TMKLaunchCountManager.m */,
+			);
+			name = TMKLaunchCountManager;
+			path = Example/TMKLaunchCountManager;
+			sourceTree = "<group>";
+		};
+		03C7C2DC1A0926F300CFCF8A /* TMKLaunchCountManagerTests */ = {
+			isa = PBXGroup;
+			children = (
+				03C7C2DD1A0926F300CFCF8A /* InfoPlist.strings */,
+				03C7C2DF1A0926F300CFCF8A /* TMKLaunchCountManager-Info.plist */,
+				03C7C2E01A0926F300CFCF8A /* TMKLaunchCountManagerTests.m */,
+			);
+			path = TMKLaunchCountManagerTests;
+			sourceTree = "<group>";
+		};
 		F458D1D618AA1FCC0096A7EC /* Example */ = {
 			isa = PBXGroup;
 			children = (
-				F458D1DB18AA1FCC0096A7EC /* TMAppDelegate.h */,
-				F458D1DC18AA1FCC0096A7EC /* TMAppDelegate.m */,
+				F458D1DB18AA1FCC0096A7EC /* TMKAppDelegate.h */,
+				F458D1DC18AA1FCC0096A7EC /* TMKAppDelegate.m */,
 				F458D1E818AA200B0096A7EC /* Controllers */,
 				F458D1EC18AA207A0096A7EC /* Supporting Files */,
 				F458D1D918AA1FCC0096A7EC /* Images.xcassets */,
@@ -91,20 +111,11 @@
 			path = Example;
 			sourceTree = "<group>";
 		};
-		F458D1DF18AA1FCC0096A7EC /* TMLaunchCountManager */ = {
-			isa = PBXGroup;
-			children = (
-				F458D1E518AA1FDE0096A7EC /* TMLaunchCountManager.h */,
-				F458D1E618AA1FDE0096A7EC /* TMLaunchCountManager.m */,
-			);
-			path = TMLaunchCountManager;
-			sourceTree = "<group>";
-		};
 		F458D1E818AA200B0096A7EC /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				F458D1E918AA20390096A7EC /* TMExampleViewViewController.h */,
-				F458D1EA18AA20390096A7EC /* TMExampleViewViewController.m */,
+				F458D1E918AA20390096A7EC /* TMKExampleViewViewController.h */,
+				F458D1EA18AA20390096A7EC /* TMKExampleViewViewController.m */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -114,8 +125,8 @@
 			children = (
 				F458D1ED18AA207A0096A7EC /* InfoPlist.strings */,
 				F458D1EF18AA207A0096A7EC /* main.m */,
-				F458D1F018AA207A0096A7EC /* TMLaunchCountManager-Info.plist */,
-				F458D1F118AA207A0096A7EC /* TMLaunchCountManager-Prefix.pch */,
+				F458D1F018AA207A0096A7EC /* TMKLaunchCountManager-Info.plist */,
+				F458D1F118AA207A0096A7EC /* TMKLaunchCountManager-Prefix.pch */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -124,8 +135,8 @@
 			isa = PBXGroup;
 			children = (
 				F458D1D618AA1FCC0096A7EC /* Example */,
-				F458D1DF18AA1FCC0096A7EC /* TMLaunchCountManager */,
-				F461CEB918AA1F3E00349E07 /* TMLaunchCountManagerTests */,
+				03B784231A0465A000881D77 /* TMKLaunchCountManager */,
+				03C7C2DC1A0926F300CFCF8A /* TMKLaunchCountManagerTests */,
 				F461CE9918AA1F3E00349E07 /* Frameworks */,
 				F461CE9818AA1F3E00349E07 /* Products */,
 			);
@@ -134,8 +145,8 @@
 		F461CE9818AA1F3E00349E07 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F461CE9718AA1F3E00349E07 /* TMLaunchCountManager.app */,
-				F461CEB218AA1F3E00349E07 /* TMLaunchCountManagerTests.xctest */,
+				F461CE9718AA1F3E00349E07 /* TMKLaunchCountManager.app */,
+				F461CEB218AA1F3E00349E07 /* TMKLaunchCountManager.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -151,30 +162,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F461CEB918AA1F3E00349E07 /* TMLaunchCountManagerTests */ = {
-			isa = PBXGroup;
-			children = (
-				F461CEBF18AA1F3E00349E07 /* TMLaunchCountManagerTests.m */,
-				F461CEBA18AA1F3E00349E07 /* Supporting Files */,
-			);
-			path = TMLaunchCountManagerTests;
-			sourceTree = "<group>";
-		};
-		F461CEBA18AA1F3E00349E07 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				F461CEBB18AA1F3E00349E07 /* TMLaunchCountManagerTests-Info.plist */,
-				F461CEBC18AA1F3E00349E07 /* InfoPlist.strings */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F461CE9618AA1F3E00349E07 /* TMLaunchCountManager */ = {
+		F461CE9618AA1F3E00349E07 /* TMKLaunchCountManager.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F461CEC318AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManager" */;
+			buildConfigurationList = F461CEC318AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMKLaunchCountManager.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				F461CE9318AA1F3E00349E07 /* Sources */,
 				F461CE9418AA1F3E00349E07 /* Frameworks */,
@@ -184,14 +177,14 @@
 			);
 			dependencies = (
 			);
-			name = TMLaunchCountManager;
+			name = TMKLaunchCountManager.temp_caseinsensitive_rename;
 			productName = TMLaunchCountManager;
-			productReference = F461CE9718AA1F3E00349E07 /* TMLaunchCountManager.app */;
+			productReference = F461CE9718AA1F3E00349E07 /* TMKLaunchCountManager.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F461CEB118AA1F3E00349E07 /* TMLaunchCountManagerTests */ = {
+		F461CEB118AA1F3E00349E07 /* TMKLaunchCountManager.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F461CEC618AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManagerTests" */;
+			buildConfigurationList = F461CEC618AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMKLaunchCountManager.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				F461CEAE18AA1F3E00349E07 /* Sources */,
 				F461CEAF18AA1F3E00349E07 /* Frameworks */,
@@ -202,9 +195,9 @@
 			dependencies = (
 				F461CEB818AA1F3E00349E07 /* PBXTargetDependency */,
 			);
-			name = TMLaunchCountManagerTests;
+			name = TMKLaunchCountManager.temp_caseinsensitive_renameTests;
 			productName = TMLaunchCountManagerTests;
-			productReference = F461CEB218AA1F3E00349E07 /* TMLaunchCountManagerTests.xctest */;
+			productReference = F461CEB218AA1F3E00349E07 /* TMKLaunchCountManager.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -213,7 +206,7 @@
 		F461CE8F18AA1F3E00349E07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = TM;
+				CLASSPREFIX = TMK;
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Ryu Tamaki";
 				TargetAttributes = {
@@ -222,7 +215,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F461CE9218AA1F3E00349E07 /* Build configuration list for PBXProject "TMLaunchCountManager" */;
+			buildConfigurationList = F461CE9218AA1F3E00349E07 /* Build configuration list for PBXProject "TMKLaunchCountManager" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -234,8 +227,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F461CE9618AA1F3E00349E07 /* TMLaunchCountManager */,
-				F461CEB118AA1F3E00349E07 /* TMLaunchCountManagerTests */,
+				F461CE9618AA1F3E00349E07 /* TMKLaunchCountManager.temp_caseinsensitive_rename */,
+				F461CEB118AA1F3E00349E07 /* TMKLaunchCountManager.temp_caseinsensitive_renameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -245,7 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03C7C2E21A0926F300CFCF8A /* TMKLaunchCountManager-Info.plist in Resources */,
 				F458D1E118AA1FCC0096A7EC /* Images.xcassets in Resources */,
+				03C7C2E11A0926F300CFCF8A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,7 +248,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F458D1F518AA20B10096A7EC /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,10 +258,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F458D1E718AA1FDE0096A7EC /* TMLaunchCountManager.m in Sources */,
-				F458D1E318AA1FCC0096A7EC /* TMAppDelegate.m in Sources */,
+				F458D1E318AA1FCC0096A7EC /* TMKAppDelegate.m in Sources */,
+				03B784261A0465A000881D77 /* TMKLaunchCountManager.m in Sources */,
 				F458D1F318AA207A0096A7EC /* main.m in Sources */,
-				F458D1EB18AA20390096A7EC /* TMExampleViewViewController.m in Sources */,
+				F458D1EB18AA20390096A7EC /* TMKExampleViewViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +269,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F461CEC018AA1F3E00349E07 /* TMLaunchCountManagerTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,24 +277,24 @@
 /* Begin PBXTargetDependency section */
 		F461CEB818AA1F3E00349E07 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F461CE9618AA1F3E00349E07 /* TMLaunchCountManager */;
+			target = F461CE9618AA1F3E00349E07 /* TMKLaunchCountManager.temp_caseinsensitive_rename */;
 			targetProxy = F461CEB718AA1F3E00349E07 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F458D1ED18AA207A0096A7EC /* InfoPlist.strings */ = {
+		03C7C2DD1A0926F300CFCF8A /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F458D1EE18AA207A0096A7EC /* en */,
+				03C7C2DE1A0926F300CFCF8A /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		F461CEBC18AA1F3E00349E07 /* InfoPlist.strings */ = {
+		F458D1ED18AA207A0096A7EC /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F461CEBD18AA1F3E00349E07 /* en */,
+				F458D1EE18AA207A0096A7EC /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -387,9 +380,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Example/Supporting Files/TMLaunchCountManager-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/Example/Supporting Files/TMLaunchCountManager-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Example/Supporting Files/TMKLaunchCountManager-Prefix.pch";
+				INFOPLIST_FILE = "Example/Supporting Files/TMKLaunchCountManager-Info.plist";
+				PRODUCT_NAME = TMKLaunchCountManager;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -400,9 +393,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Example/Supporting Files/TMLaunchCountManager-Prefix.pch";
-				INFOPLIST_FILE = "$(SRCROOT)/Example/Supporting Files/TMLaunchCountManager-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Example/Supporting Files/TMKLaunchCountManager-Prefix.pch";
+				INFOPLIST_FILE = "Example/Supporting Files/TMKLaunchCountManager-Info.plist";
+				PRODUCT_NAME = TMKLaunchCountManager;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -417,13 +410,13 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TMLaunchCountManager/TMLaunchCountManager-Prefix.pch";
+				GCC_PREFIX_HEADER = "Example/Supporting Files/TMKLaunchCountManager-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "TMLaunchCountManagerTests/TMLaunchCountManagerTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TMKLaunchCountManagerTests/TMKLaunchCountManager-Info.plist";
+				PRODUCT_NAME = TMKLaunchCountManager;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -439,9 +432,9 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TMLaunchCountManager/TMLaunchCountManager-Prefix.pch";
-				INFOPLIST_FILE = "TMLaunchCountManagerTests/TMLaunchCountManagerTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Example/Supporting Files/TMKLaunchCountManager-Prefix.pch";
+				INFOPLIST_FILE = "TMKLaunchCountManagerTests/TMKLaunchCountManager-Info.plist";
+				PRODUCT_NAME = TMKLaunchCountManager;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -450,7 +443,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F461CE9218AA1F3E00349E07 /* Build configuration list for PBXProject "TMLaunchCountManager" */ = {
+		F461CE9218AA1F3E00349E07 /* Build configuration list for PBXProject "TMKLaunchCountManager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F461CEC118AA1F3E00349E07 /* Debug */,
@@ -459,7 +452,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F461CEC318AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManager" */ = {
+		F461CEC318AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMKLaunchCountManager.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F461CEC418AA1F3E00349E07 /* Debug */,
@@ -468,7 +461,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F461CEC618AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMLaunchCountManagerTests" */ = {
+		F461CEC618AA1F3E00349E07 /* Build configuration list for PBXNativeTarget "TMKLaunchCountManager.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F461CEC718AA1F3E00349E07 /* Debug */,

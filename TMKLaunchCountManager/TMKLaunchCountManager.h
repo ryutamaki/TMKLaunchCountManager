@@ -8,12 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
-@interface TMLaunchCountManager : NSObject
+@interface TMKLaunchCountManager : NSObject
 
 @property (nonatomic) NSMutableArray *versions;
 
 
-+ (TMLaunchCountManager *)sharedManager;
++ (TMKLaunchCountManager *)sharedManager;
 + (void)launch;
 
 

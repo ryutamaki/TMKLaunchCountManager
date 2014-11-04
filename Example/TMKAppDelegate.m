@@ -6,23 +6,23 @@
 //  Copyright (c) 2014年 Ryu Tamaki. All rights reserved.
 //
 
-#import "TMAppDelegate.h"
+#import "TMKAppDelegate.h"
 
-#import "TMLaunchCountManager.h"
+#import "TMKLaunchCountManager.h"
 
-#import "TMExampleViewViewController.h"
+#import "TMKExampleViewViewController.h"
 
-@implementation TMAppDelegate
+@implementation TMKAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     /* call this wherever you want */
-    [TMLaunchCountManager launch];
+    [TMKLaunchCountManager launch];
     
     
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
-    TMExampleViewViewController *exampleViewController = [[TMExampleViewViewController alloc] initWithNibName:nil bundle:nil];
+    TMKExampleViewViewController *exampleViewController = [[TMKExampleViewViewController alloc] initWithNibName:nil bundle:nil];
     self.window.rootViewController = exampleViewController;
     
     self.window.backgroundColor = [UIColor whiteColor];

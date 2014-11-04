@@ -1,5 +1,5 @@
 //
-//  TMExampleViewViewController.h
+//  TMAppDelegate.h
 //  TMLaunchCountManager
 //
 //  Created by ryutamaki on 2014/02/11.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TMExampleViewViewController : UIViewController
+@interface TMKAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
 
 @end

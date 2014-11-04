@@ -6,11 +6,11 @@
 //  Copyright (c) 2014年 Ryu Tamaki. All rights reserved.
 //
 
-#import "TMExampleViewViewController.h"
+#import "TMKExampleViewViewController.h"
 
-#import "TMLaunchCountManager.h"
+#import "TMKLaunchCountManager.h"
 
-@interface TMExampleViewViewController ()
+@interface TMKExampleViewViewController ()
 
 @property (nonatomic) UILabel *currentVersionLabel;
 @property (nonatomic) UILabel *launchCountForCurrentVersionLabel;
@@ -19,7 +19,7 @@
 
 @end
 
-@implementation TMExampleViewViewController
+@implementation TMKExampleViewViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -56,7 +56,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
 
-    TMLaunchCountManager *manager = [TMLaunchCountManager sharedManager];
+    TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
     _currentVersionLabel.text = [NSString stringWithFormat:@"Current Version : %@", [manager currentVersion]];
     _launchCountForCurrentVersionLabel.text = [NSString stringWithFormat:@"Launch Count : %lu", (unsigned long)[manager launchCountForCurrentVersion]];
     _isFirstLaunchForCurrentVersionLabel.text = [NSString stringWithFormat:@"Is first time : %lu", (unsigned long)[manager isFirstLaunchForCurrentVersion]];
