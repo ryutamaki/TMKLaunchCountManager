@@ -1,4 +1,4 @@
-TMLaunchCountManager
+TMKLaunchCountManager
 ====================
 
 For iOS. Count launch number. Use NSUserDefaults.
@@ -8,26 +8,26 @@ For iOS. Count launch number. Use NSUserDefaults.
 ## How to use
 You call this wherever you want to count up launch count.
 
-	[TMLaunchCountManager launch];
+	[TMKLaunchCountManager launch];
 	
 ## What can you do?
 1. Previous versions you have launched.
 
-		NSLog(@"%@", [[TMLaunchCountManager sharedManager] versions]);
+		NSLog(@"%@", [[TMKLaunchCountManager sharedManager] versions]);
 2. Launch count for any versions you have launched.
-	- Configure version number
+	-Configure version number
 
-			TMLaunchCountManager *manager = [TMLaunchCountManager sharedManager];
+			TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
 			NSString *firstVersion = [manager.versions firstObject];
 			NSLog(@"%ld", (long)[manager launchCountForVersion:firstVersion]);
 
-	- Use current version
+	-Use current version
 	
-			TMLaunchCountManager *manager = [TMLaunchCountManager sharedManager];
+			TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
 			NSLog(@"%ld", (long)[managerlaunchCountForCurrentVersion]);
 
 3. Check is first time to lanch
 
-		TMLaunchCountManager *manager = [TMLaunchCountManager sharedManager];
+		TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
 		NSLog(@"%d", [manager isFirstLaunchForCurrentVersion]);
 	
