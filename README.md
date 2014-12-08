@@ -14,14 +14,16 @@ You call this wherever you want to count up launch count.
 1. Previous versions you have launched.
 
 		NSLog(@"%@", [[TMKLaunchCountManager sharedManager] versions]);
+
 2. Launch count for any versions you have launched.
-	-Configure version number
+	
+	- Configure version number
 
 			TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
 			NSString *firstVersion = [manager.versions firstObject];
 			NSLog(@"%ld", (long)[manager launchCountForVersion:firstVersion]);
 
-	-Use current version
+	- Use current version
 	
 			TMKLaunchCountManager *manager = [TMKLaunchCountManager sharedManager];
 			NSLog(@"%ld", (long)[managerlaunchCountForCurrentVersion]);
